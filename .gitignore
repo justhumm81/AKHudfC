@@ -1,52 +1,37 @@
-# Prerequisites
-*.d
+##############################
+#git ignore files / directories to be omitted from repository uploads
+##############################
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# Build output
+##############################
+/bin/
+/obj/
+/*.user
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# VS Code or Rider settings
+##############################
+/.vs/
+.vscode/
+.idea/
+*.csproj*
 
-# Precompiled Headers
-*.gch
-*.pch
+# Windows files
+##############################
+Thumbs.db
+desktop.ini
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# Excel temp files
+##############################
+~$*
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
+# DNA/Excel-DNA
+##############################
+/packages/
+*.xll
 *.pdb
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Backup and temp
+##############################
+/*VOID*
+*.bak
+*BackupCopy.cs
