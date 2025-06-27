@@ -10,7 +10,7 @@ UDFs currently included in the add-in:
 - C_InchToMix (converts a decimal number - assumed INCHES - to a Foot-Inch string)
 - C_Indirect (not working properly yet)
 - C_Linterp (performs a linerar interpolation based on two know X-Y values)
-- C_MixToInch (converts a Foot-Inch string a decimal number of inches)
+- C_MixToInch (converts a Foot-Inch string to a decimal number of inches)
 - C_MMatch (not working properly yet)
 
 ![image](https://github.com/user-attachments/assets/ce95a1ee-47fa-4869-adac-f265313e354f)
