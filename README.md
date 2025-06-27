@@ -12,6 +12,7 @@ UDFs currently included in the add-in:
 - C_Linterp (performs a linerar interpolation based on two know X-Y values)
 - C_MixToInch (converts a Foot-Inch string to a decimal number of inches)
 - C_MMatch (not working properly yet)
+- C_RevStr (reverses the order of characters in a string, CAT --> TAC)
 
 ![image](https://github.com/user-attachments/assets/ce95a1ee-47fa-4869-adac-f265313e354f)
 
