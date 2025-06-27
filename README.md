@@ -6,7 +6,7 @@ UDFs currently included in the add-in:
 - C_BiggerNumber (just a speed test...counts the miliseconds to reach a large number via specified increments)
 - C_ChangeCase (changes the case of a text string)
 - C_FootToMix (converts a decimal number - assumed FEET - to a Foot-Inch string)
-- F_Formula (similar to the native FORMULATEXT, but converts the cell addresses to the cell contents)
+- C_Formula (similar to the native FORMULATEXT, but converts the cell addresses to the cell contents)
 - C_InchToMix (converts a decimal number - assumed INCHES - to a Foot-Inch string)
 - C_Indirect (not working properly yet)
 - C_Linterp (performs a linerar interpolation based on two know X-Y values)
