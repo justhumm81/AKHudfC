@@ -13,5 +13,8 @@ UDFs currently included in the add-in:
 - C_MixToInch (converts a Foot-Inch string a decimal number of inches)
 - C_MMatch (not working properly yet)
 
+![image](https://github.com/user-attachments/assets/ce95a1ee-47fa-4869-adac-f265313e354f)
+
+
 Initial inspiration for this endeavor was from Morefunc (by Laurent Longre), which was written in C++ and basically went defunct (2007) due to incompatability with newer versions of Excel. This repository is NOT meant to act as a replacement for it.
 https://web.archive.org/web/20060601112922/http://xcell05.free.fr/
